@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Olá, eu sou Manoelle!
 
-<!--
-**souzaenoquemanoelle-boop/souzaenoquemanoelle-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Tecnologia  
+💻 Aprendendo programação e desenvolvimento web  
+🚀 Futura desenvolvedora
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐍 Python  
+🌐 HTML  
+🎨 CSS
+
+## 📫 Contato
+
+[![Gmail](https://img.shields.io/badge/Gmail-Contato-red?logo=gmail)](mailto:souzaenoquemanoelle@gmail.com)
+
+---
+
+✨ Obrigada pela visita ao meu perfil!
